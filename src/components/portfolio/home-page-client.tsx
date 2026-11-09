@@ -471,7 +471,7 @@ alt="Ankit Kumar"
             <Link href="/project">View All</Link>
           </Button>
         </div>
-        <ProjectsGrid compact limit={3} initialRepos={initialRepos} />
+        <ProjectsGrid />
       </section>
 
       <section className="space-y-4" data-home-reveal>
