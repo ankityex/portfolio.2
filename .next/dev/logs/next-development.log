@@ -1,0 +1,21 @@
+{"timestamp":"00:00:08.987","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:08.987","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:55.358","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:02:07.792","source":"Server","level":"ERROR","message":"TypeError: fetch failed"}
+{"timestamp":"00:02:07.805","source":"Server","level":"ERROR","message":"TypeError: fetch failed"}
+{"timestamp":"00:02:07.818","source":"Server","level":"ERROR","message":"TypeError: fetch failed"}
+{"timestamp":"00:02:14.513","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:19.113","source":"Server","level":"LOG","message":"○ Compiling /api/auth/[...all] ..."}
+{"timestamp":"00:02:37.314","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:38.197","source":"Browser","level":"WARN","message":"No target found. Make sure the element you're trying to animate is accessible before creating your animation."}
+{"timestamp":"00:02:39.288","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mNo target found. Make sure the element you're trying to animate is accessible before creating your animation.\\u001b[39m\" \"\\u001b[2m(src/components/layout/footer.tsx:52:12)\\u001b[22m\""}
+{"timestamp":"00:02:39.289","source":"Browser","level":"WARN","message":"No target found. Make sure the element you're trying to animate is accessible before creating your animation."}
+{"timestamp":"00:02:39.623","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mNo target found. Make sure the element you're trying to animate is accessible before creating your animation.\\u001b[39m\" \"\\u001b[2m(src/components/layout/footer.tsx:52:12)\\u001b[22m\""}
+{"timestamp":"00:02:39.624","source":"Browser","level":"WARN","message":"Image with src \"/my-photo.jpeg\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"00:02:39.624","source":"Browser","level":"LOG","message":"[Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again."}
+{"timestamp":"00:02:39.624","source":"Browser","level":"LOG","message":"[Vercel Speed Insights] Failed to load script from https://va.vercel-scripts.com/v1/speed-insights/script.debug.js. Please check if any content blockers are enabled and try again."}
+{"timestamp":"00:02:39.632","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/my-photo.jpeg\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"00:02:43.258","source":"Server","level":"LOG","message":"○ Compiling /blog ..."}
+{"timestamp":"00:03:11.549","source":"Server","level":"LOG","message":"○ Compiling /contact ..."}
+{"timestamp":"00:03:17.511","source":"Server","level":"ERROR","message":"2026-11-09T06:06:04.433Z ERROR [Better Auth]: Provider not found. Make sure to add the provider in your auth config {}"}
+{"timestamp":"00:27:28.693","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/home/somebs/Desktop/nova/src/app'"}
