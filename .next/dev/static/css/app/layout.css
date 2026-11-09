@@ -1639,9 +1639,6 @@
   .text-\[10px\] {
     font-size: 10px;
   }
-  .text-\[11px\] {
-    font-size: 11px;
-  }
   .text-\[clamp\(0\.95rem\,6vw\,2\.5rem\)\] {
     font-size: clamp(0.95rem, 6vw, 2.5rem);
   }

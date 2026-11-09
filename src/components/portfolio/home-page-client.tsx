@@ -228,9 +228,7 @@ export function HomePageClient({
 
         <div className="relative z-10 overflow-hidden border-4 border-black bg-card">
           <div className="flex items-center justify-between border-b-4 border-black bg-[#d7d7d7] px-2 py-2 text-black sm:px-3 dark:bg-[#2f2f2f] dark:text-white">
-            <p className="font-pixel text-[11px] font-black sm:text-xs">
-ankitkumar.com
-            </p>
+          
             <div className="flex gap-2">
               <span className="inline-flex h-5 w-5 items-center justify-center border-2 border-black bg-[#ffd146] text-[#5c3d00] font-black text-[10px] shadow-retro-sm sm:h-6 sm:w-6 sm:text-xs">
                 -
